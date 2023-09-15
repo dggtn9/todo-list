@@ -1,2 +1,2 @@
-# todo-list
-Repositorio para aprender REACT
+# Todo-list
+REACT repository for learning
